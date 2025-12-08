@@ -1,9 +1,11 @@
 # /// script
 # requires-python = ">=3.13"
 # dependencies = [
+#     "marimo>=0.17.0",
 #     "matplotlib==3.10.7",
 #     "numpy==2.3.5",
 #     "pandas==2.3.3",
+#     "pyzmq",
 #     "scikit-learn==1.7.2",
 #     "seaborn==0.13.2",
 # ]
@@ -11,7 +13,7 @@
 
 import marimo
 
-__generated_with = "0.18.0"
+__generated_with = "0.18.1"
 app = marimo.App(width="medium", layout_file="layouts/chap02.grid.json")
 
 
