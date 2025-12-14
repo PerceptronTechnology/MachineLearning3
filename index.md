@@ -9,11 +9,15 @@
   <img src="images/araki25b.jpg" width="200pt" style="border: 1px"/>
   </a>
 
-## marimo のテスト
+## marimo
 
-|章|リンク|
-|--|--|
-|2. 機械学習の基本的な手順|[![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_NxypaRkCLTPYbCWmb4zyEJ)
+| Links |molab|
+|--| --|
+| [marimo の入門記事 (1)](https://note.com/mas_araki/n/n4fbcc8a74b08)|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_KobKrteFByCfTYc1ikfzyj)|
+| [marimo の入門記事 (2)](https://note.com/mas_araki/n/n77f80aa1e672)|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_jnkpn4idTVtdSfDadTfWbQ)|
+| [marimo の入門記事 (3)](https://note.com/mas_araki/n/n5917741fd6a9)|スライド [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_P5VdZjm4LDU7yFNADJasZD)|
+|2章を元にしたコード|ノートブック [![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_NxypaRkCLTPYbCWmb4zyEJ)|
+
 
 ## 章構成
 
